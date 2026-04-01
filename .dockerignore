@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.gitignore
+.prettierrc
+.eslintrc.cjs
+README.md
+Dockerfile
+.dockerignore
+npm-debug.log
+C:\Users\Pedrosa\.gemini\antigravity\brain\1e9f0529-835f-4b9f-adc6-9770e5a8a458
+C:\Users\Pedrosa\.gemini\antigravity\brain\1e9f0529-835f-4b9f-adc6-9770e5a8a458\.system_generated
