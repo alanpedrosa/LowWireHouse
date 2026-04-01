@@ -8,5 +8,12 @@ README.md
 Dockerfile
 .dockerignore
 npm-debug.log
-C:\Users\Pedrosa\.gemini\antigravity\brain\1e9f0529-835f-4b9f-adc6-9770e5a8a458
-C:\Users\Pedrosa\.gemini\antigravity\brain\1e9f0529-835f-4b9f-adc6-9770e5a8a458\.system_generated
+*.webp
+*.png
+*.bak
+.DS_Store
+.vscode
+.idea
+.gemini
+brain
+.system_generated
